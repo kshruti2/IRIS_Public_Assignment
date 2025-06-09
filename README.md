@@ -62,6 +62,20 @@ It includes an interactive Swagger documentation and a Postman collection for ea
 | Row name not present      | Returns HTTP 404                    |
 | Non-numeric values in row | Ignored during summation            |
 
+# 📊  My Insights
+
+🔧 Potential Improvements
+
+✅ Dynamic File Upload: Allow users to upload Excel files via API instead of using a fixed file.
+
+✅ Advanced Operations: Support for averages, medians, or filtering specific rows/columns.
+
+✅ Authentication: Add API key/token-based access for security.
+
+✅ UI Integration: Develop a creative, user-friendly frontend interface (React or Streamlit).
+
+✅ Deployment: Dockerize for smooth deployment on cloud platforms like Heroku or AWS.
+
 # 📦 Installation Instructions
 
 1️⃣ Clone the Repository : git clone https://github.com/your-username/IRIS_Public_Assignment.git
